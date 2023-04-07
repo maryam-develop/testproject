@@ -1,4 +1,4 @@
-alert("java script 1 ");
+// alert("java script 1 ");
 
 // let data = "5";
 // let data1 = 7;
