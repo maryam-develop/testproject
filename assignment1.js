@@ -47,17 +47,17 @@
 
 // qno 4
 
-for (let a=0; a<=15; a++) {
-    if (a === 0) {
-            console.log(a +  " is even");
-    }
-    else if (a % 2 === 0) {
-            console.log(a + " is even");   
-    }
-    else {
-            console.log(a + " is odd");
-    }
-}
+// for (let a=0; a<=15; a++) {
+//     if (a === 0) {
+//             console.log(a +  " is even");
+//     }
+//     else if (a % 2 === 0) {
+//             console.log(a + " is even");   
+//     }
+//     else {
+//             console.log(a + " is odd");
+//     }
+// }
 
 // qno 5
 
